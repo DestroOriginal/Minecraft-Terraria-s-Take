@@ -1,14 +1,15 @@
-# Minecraft-Terraria-s-Take
-Minecraft: Terraria's Take, A Terraria Mod That adds Minecraft Items in terraria.
+# TerrariaCraft
+TerraCraft, A Mod That adds Minecraft Items in terraria.
 
 Currently we have:
- All Swords
- All Pickaxes
- All Axes
- All Shovels
+A Lot of Potions
+All Tools, Swords and Bows
+Some Ores,Blocks
+Some Bags
  
  Planning To Add:
- Potions
+ Poison Potion (as a mage weapon)
+ Instant Damage Potion (as a mage weapon too)
  Possibly Enchantments
  Armor
  
